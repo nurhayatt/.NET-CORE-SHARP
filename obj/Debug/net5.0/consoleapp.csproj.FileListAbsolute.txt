@@ -1,0 +1,16 @@
+C:\laragon\www\.Net\consoleapp\bin\Debug\net5.0\consoleapp.exe
+C:\laragon\www\.Net\consoleapp\bin\Debug\net5.0\consoleapp.deps.json
+C:\laragon\www\.Net\consoleapp\bin\Debug\net5.0\consoleapp.runtimeconfig.json
+C:\laragon\www\.Net\consoleapp\bin\Debug\net5.0\consoleapp.runtimeconfig.dev.json
+C:\laragon\www\.Net\consoleapp\bin\Debug\net5.0\consoleapp.dll
+C:\laragon\www\.Net\consoleapp\bin\Debug\net5.0\ref\consoleapp.dll
+C:\laragon\www\.Net\consoleapp\bin\Debug\net5.0\consoleapp.pdb
+C:\laragon\www\.Net\consoleapp\obj\Debug\net5.0\consoleapp.csprojAssemblyReference.cache
+C:\laragon\www\.Net\consoleapp\obj\Debug\net5.0\consoleapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\laragon\www\.Net\consoleapp\obj\Debug\net5.0\consoleapp.AssemblyInfoInputs.cache
+C:\laragon\www\.Net\consoleapp\obj\Debug\net5.0\consoleapp.AssemblyInfo.cs
+C:\laragon\www\.Net\consoleapp\obj\Debug\net5.0\consoleapp.csproj.CoreCompileInputs.cache
+C:\laragon\www\.Net\consoleapp\obj\Debug\net5.0\consoleapp.dll
+C:\laragon\www\.Net\consoleapp\obj\Debug\net5.0\ref\consoleapp.dll
+C:\laragon\www\.Net\consoleapp\obj\Debug\net5.0\consoleapp.pdb
+C:\laragon\www\.Net\consoleapp\obj\Debug\net5.0\consoleapp.genruntimeconfig.cache
