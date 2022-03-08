@@ -7,7 +7,7 @@ namespace consoleapp
         static void Main(string[] args)
         {
             //Console.WriteLine("Hello World!");
-
+//Değişkenler 
             //Kilo bilgisini tutacak bir değişken(byte, short, int, long)
             byte kilo = 100;
             byte? kilo2 = null;
@@ -29,6 +29,33 @@ namespace consoleapp
                 string ad = "Nur";
                 string soyad = "Berber";
                 string adSoyad = ad + " " + soyad;  //Nur Berber
+
+            //ENDdeğişkenler
+
+            //Veritipi dönüşümü
+            //implicit casting:smaller type to larger küçük veriyi büyük veriye çevirme
+            int a = 10;
+            long b=a;
+            float e = 10.5f; //daha az kapisetli
+            double f = e; //kapasite daha yüksel floata göre
+          
+            //explicit casting:larger type to smaller büyük veriyi küçük veriye çevirme
+            long c = 10;
+            int d = (int)c;
+
+            double g = 10.6;
+            float h = (float)g;
+
+            double k = 10.5;
+            int l =(int)k;
+
+            int m = 23654;
+            byte n = (byte)m;
+
+            int x = 10;
+            string z = x.ToString();
+
+            //EndVeritipi dönüşümü
 
 
 
