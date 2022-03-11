@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "T7JccJFiGHbHS3bNjBFECYeqbPQXbsOlF6poBU7Op+mxmlzU2mhJjo+tIQFDc3m0OMNWFOAdxrCwU4krcjWuIQ==",
+  "dgSpecHash": "Jm9z0MdXcZCtjWHVvULv2xvYN+tzxY0vG03/aeMZsPXUJL5/f4esdrFyY/PoaK+y+mfbMoQm7jspQ+2aT2coIw==",
   "success": true,
-  "projectFilePath": "C:\\laragon\\www\\.Net\\consoleapp\\consoleapp.csproj",
+  "projectFilePath": "c:\\laragon\\www\\.Net\\consoleapp\\consoleapp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\NURHAYAT\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
   ],
