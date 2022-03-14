@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Data.SqlClient;
 
 namespace consoleapp
 {
@@ -9,7 +10,7 @@ namespace consoleapp
             //Console.WriteLine("Hello World!");
 //Değişkenler 
             //Kilo bilgisini tutacak bir değişken(byte, short, int, long)
-            byte kilo = 100;
+         /*   byte kilo = 100;
             byte? kilo2 = null;
             //Plaka bilgisini tutacak bir değişken
             byte plaka = 81;
@@ -53,12 +54,36 @@ namespace consoleapp
             byte n = (byte)m;
 
             int x = 10;
-            string z = x.ToString();
+            string z = x.ToString();*/
 
             //EndVeritipi dönüşümü
 
-
-
+            GetSqlConnection();
         }
+
+        static void GetSqlConnection()
+        {
+            string connectionString = @"Data Source=.\SQLEXPRESS; Initial Catalog=Northwind; Integrated Security=SSPI;";
+            //connection.Open();
+            //connection.Close();
+            using(var connection = new SqlConnection(connectionString))
+            {
+                try
+                {
+                    
+                    Console.WriteLine("Bağlantı başarılı");
+                }
+                catch(Exception ex)
+                {
+                    Console.WriteLine("Bağlantı başarısız");
+                    Console.WriteLine(ex.Message);
+                }
+            
+                {
+                    Console.WriteLine("Bağlantı başarısız");
+                }
+            }
+        }
+
     }
 }
